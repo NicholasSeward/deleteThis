@@ -1,3 +1,3 @@
-Class: Integratec Computer Science
+Class: Integrated Computer Science
 Year: 2019-2020
 Participant: Nicholas Seward
