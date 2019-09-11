@@ -1,3 +1,0 @@
-Class: Integrated CompSci
-Year: 2019-2020
-Participant: Nick Seward
